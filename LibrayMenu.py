@@ -1,0 +1,10 @@
+def bookmenu():
+    print("Library Management System")
+    print("-"*50)
+    print("\t1.Add New Book")
+    print("\t2.Delete Book")
+    print("\t3.Update Book Details")
+    print("\t4.View Book Details")
+    print("\t5.view all Book Details")
+    print("\t6.Exit")
+    print("-"*50)
